@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a third-year CS student at the University of Windsor. I've also worked for the university as a teaching assistant (<a href="https://uwindsorcss.github.io/wiki/courses/COMP-2660/overview">COMP 2660</a> and <a href="https://uwindsorcss.github.io/wiki/courses/COMP-2067/overview">COMP 2067</a>) and a research assistant in the laboratory of <a href="https://www.uwindsor.ca/science/computerscience/1034/dr-arunita-jaekel">Dr. Arunita Jaekel</a>. The bulk of my work was related to the detection of position falsification attacks in vehicular ad-hoc networks using machine learning. 
+I'm a third-year CS student at the University of Windsor. I've also worked for the university as a teaching assistant (<a href="https://uwindsorcss.github.io/wiki/courses/COMP-2660/overview">COMP 2660</a> and <a href="https://uwindsorcss.github.io/wiki/courses/COMP-2067/overview">COMP 2067</a>) and I currently work as a research assistant in the laboratory of <a href="https://www.uwindsor.ca/science/computerscience/1034/dr-arunita-jaekel">Dr. Arunita Jaekel</a>. The bulk of my work has been related to the detection of position falsification attacks in vehicular ad-hoc networks using machine learning. 
 
 I'm also a two-time app dev intern at <a href="https://mnpdigital.ca">MNP Digital</a>, where my responsibilities have included everything from ASP.NET, JS, and Python web dev and code analysis, to comparing SAST/DAST tools for developer use, to working on large-scale PoC projects. 
 
